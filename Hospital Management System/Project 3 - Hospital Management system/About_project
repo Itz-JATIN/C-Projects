@@ -1,0 +1,54 @@
+# 🏥 Hospital Management System (C++)
+
+## Overview
+A beginner-friendly **Hospital Management System** developed in **C++** using **Object-Oriented Programming (OOP)** and a **Singly Linked List**. This console application helps manage patient records through a menu-driven interface.
+
+## Features
+- Add a new patient
+- Display all patients
+- Search patient by ID
+- Update patient details
+- Delete a patient
+- Count total patients
+- Exit the application
+
+## Concepts Used
+- Classes and Objects
+- Encapsulation
+- Constructors
+- Singly Linked List
+- Dynamic Memory Allocation
+- Functions
+- Loops and Conditional Statements
+
+
+## Menu
+```
+1. Add Patient
+2. Display Patients
+3. Search Patient
+4. Update Patient
+5. Delete Patient
+6. Count Patients
+7. Exit
+```
+
+## Sample Output
+```
+1. Add
+2. Display
+3. Search
+4. Update
+5. Delete
+6. Count
+7. Exit
+
+Choice: 1
+ID: 101
+Name: Jatin Kumar
+Age: 19
+Disease: Fever
+
+Patient added.
+```
+
